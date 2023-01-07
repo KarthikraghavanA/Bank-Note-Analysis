@@ -48,4 +48,11 @@ Associated Tasks : Classification
 
 We are using Jupyter Notebook for working with the data for this project --
 
+We got the result as seen below
+
+![image](https://user-images.githubusercontent.com/112689649/211129541-6a923432-1744-4189-8939-d83703f54a18.png)
+
+
+We are getting good results with **SVM with rbf**, **K Nearest Neigbors Classifier**, **Multilayer Perceptron**
+
 
